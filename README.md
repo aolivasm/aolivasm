@@ -1,10 +1,10 @@
-# Antonio Olivas-Martínez - Personal Academic Website
+# Antonio Olivas-Martinez - Personal Academic Website
 
 Welcome to my personal academic website, built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
 
 ## About Me
 
-I am a **doctoral student** in **Biostatistics** at the **University of Washington**, with a background in **Mathematics** (University of Sonora) and **Internal Medicine** (INCMNSZ/UNAM). My research, supervised by **Dr. Andrea Rotnitzky**, focuses on developing statistical methods to estimate causal effects of continuous exposures in the presence of unmeasured confounding. One of the main applications of this work is identifying **correlates of protection in vaccine trials**, which aims to uncover immune markers that reliably predict vaccine efficacy and improve vaccine trial design.
+I am a **doctoral candidate** in **Biostatistics** at the **University of Washington**, with a background in **Mathematics** (University of Sonora) and **Internal Medicine** (INCMNSZ/UNAM). My research, supervised by **Dr. Andrea Rotnitzky**, focuses on developing statistical methods for estimating causal effects of continuous exposures in the presence of unmeasured confounding. One of the main applications of this work is identifying **correlates of protection in vaccine trials**, which aims to uncover immune markers that reliably predict vaccine efficacy and improve vaccine trial design.
 
 Beyond my doctoral research, I have contributed to various projects, including:
 
@@ -14,7 +14,7 @@ Beyond my doctoral research, I have contributed to various projects, including:
 
 I also collaborate with the **INCMNSZ** on research related to **COVID-19**, **HIV/AIDS**, **antimicrobial resistance**, **cancer**, and **gastrointestinal diseases**. Additionally, I am a member of **Mexicans in Statistics and Health**, a group dedicated to making complex scientific topics accessible to a broader audience.
 
-My research interests include **causal inference**, **machine learning**, **clinical trials**, and **cancer screening**, with a focus on advancing statistical methods to improve health outcomes.
+My research interests include **causal inference**, **machine learning**, **clinical trials**, and **screening tests**, with a focus on advancing statistical methods to improve health outcomes.
 
 ---
 
