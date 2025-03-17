@@ -1,10 +1,10 @@
 # _config.yml
 
 # General settings
-title: "Antonio Olivas-Martínez"
-author: "Antonio Olivas-Martínez"
+title: "Antonio Olivas-Martinez"
+author: "Antonio Olivas-Martinez"
 description: "Personal academic website"
-url: "https://yourusername.github.io" # Update with your GitHub Pages URL
+url: "https://aolivasm.github.io"
 baseurl: "" # Leave empty for root URL, or use a subpath (e.g., /personal-site)
 
 # Social Media Links
