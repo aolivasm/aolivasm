@@ -1,4 +1,4 @@
-# Antonio Olivas-Martinez - Personal Academic Website
+# Antonio Olivas-Martinez
 
 Welcome to my personal academic website, built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
 
