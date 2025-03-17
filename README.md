@@ -21,8 +21,8 @@ My research interests include **causal inference**, **machine learning**, **clin
 ## Contact
 
 - **Email**: aolivas@uw.edu
-- **LinkedIn**: [Antonio Olivas-Martínez LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
-- **ResearchGate**: [Antonio Olivas-Martínez ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
+- **LinkedIn**: [Antonio Olivas-Martinez LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
+- **ResearchGate**: [Antonio Olivas-Martinez ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
 
 ---
 
