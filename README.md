@@ -1,4 +1,8 @@
-# About Me
+# Antonio Olivas-Martínez - Personal Academic Website
+
+Welcome to my personal academic website, built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
+
+## About Me
 
 I am a **doctoral student** in **Biostatistics** at the **University of Washington**, with a background in **Mathematics** (University of Sonora) and **Internal Medicine** (INCMNSZ/UNAM). My research, supervised by **Dr. Andrea Rotnitzky**, focuses on developing statistical methods to estimate causal effects of continuous exposures in the presence of unmeasured confounding. One of the main applications of this work is identifying **correlates of protection in vaccine trials**, which aims to uncover immune markers that reliably predict vaccine efficacy and improve vaccine trial design.
 
@@ -17,28 +21,12 @@ My research interests include **causal inference**, **machine learning**, **clin
 ## Contact
 
 - **Email**: aolivas@uw.edu
-- **LinkedIn**: https://www.linkedin.com/in/antonio-olivas-martinez-490236198/
-- **ResearchGate**: https://www.researchgate.net/profile/Antonio-Olivas-Martinez
+- **LinkedIn**: [Antonio Olivas-Martínez LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
+- **ResearchGate**: [Antonio Olivas-Martínez ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
 
 ---
 
 ## Skills & Tools
 
 - **Languages**: R, Python, SQL
-- **Statistical Methods**: Proximal Causal Inference, Machine Learning, Clinical Trials, Bayesian Hierarchichal Models
-
-
-<!--
-**aolivasm/aolivasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Statistical Methods**: Proximal Causal Inference, Machine Learning, Clinical Trials, Bayesian Hierarchical Models
