@@ -4,13 +4,16 @@ Welcome to my personal academic website, built using the [Minimal Mistakes](http
 
 ## About Me
 
-I am a **doctoral candidate** in **Biostatistics** at the **University of Washington**, with a background in **Mathematics** (University of Sonora) and **Internal Medicine** (INCMNSZ/UNAM). My research, supervised by **Dr. Andrea Rotnitzky**, focuses on developing statistical methods for estimating causal effects of continuous exposures in the presence of unmeasured confounding. One of the main applications of this work is identifying **correlates of protection in vaccine trials**, which aims to uncover immune markers that reliably predict vaccine efficacy and improve vaccine trial design.
+I am a **biostatistician** (PhD, University of Washington) and **medical doctor** (internal medicine, INCMNSZ/UNAM) with a background in **Mathematics** (University of Sonora). My dissertation, *Advances in Proximal Inference for Continuous Exposures, Estimation of Ill-Posed Regression, and Non-Inferiority Assessment in Active-Controlled Trials*, was supervised by **Dr. Andrea Rotnitzky** (proximal inference and ill-posed regression) and **Dr. Holly Janes** (non-inferiority trials).
 
-Beyond my doctoral research, I have contributed to various projects, including:
+I am currently a **Postdoctoral Researcher** at the **Center for Causal Inference at the University of Pennsylvania**, working on statistical methods for predicting outcomes of in vitro fertilization therapy.
 
-- **Non-Inferiority Trials**: Developing a framework for active-controlled trials with **Dr. Holly Janes**.
-- **Cardiac Resynchronization Therapy**: Conducting individual patient data meta-analyses to assess benefits for heart failure patients with **Dr. Lurdes Inoue**.
-- **Cancer Screening**: Investigating bias in test sensitivity estimates with **Dr. Ruth Etzioni**.
+My research has focused on **causal inference**, **machine learning**, **clinical trials**, and **cancer screening**, with applications including:
+
+- **Correlates of Protection in Vaccine Trials**: Identifying immune markers that reliably predict vaccine efficacy and allowing for unmeasured confounding.
+- **Non-Inferiority Trials**: Developing a framework for assessing non-inferiority of new interventions with active-controlled trials.
+- **Cardiac Resynchronization Therapy**: Conducting individual patient data meta-analyses to assess benefits of cardiac resynchronation therapy for heart failure patients.
+- **Cancer Screening**: Investigating bias in test sensitivity estimates.
 
 I also collaborate with the **INCMNSZ** on research related to **COVID-19**, **HIV/AIDS**, **antimicrobial resistance**, **cancer**, and **gastrointestinal diseases**. Additionally, I am a member of **Mexicans in Statistics and Health**, a group dedicated to making complex scientific topics accessible to a broader audience.
 
@@ -20,7 +23,7 @@ My research interests include **causal inference**, **machine learning**, **clin
 
 ## Contact
 
-- **Email**: aolivas@uw.edu
+- **Email**: aolivasm@upenn.edu
 - **LinkedIn**: [Antonio Olivas-Martinez LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
 - **ResearchGate**: [Antonio Olivas-Martinez ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
 
