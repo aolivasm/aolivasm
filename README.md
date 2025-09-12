@@ -1,7 +1,3 @@
-# Antonio Olivas-Martinez
-
-Welcome to my personal academic website, built using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
-
 ## About Me
 
 I am a biostatistician (PhD, University of Washington) and medical doctor (internal medicine, INCMNSZ/UNAM) with a background in Mathematics (University of Sonora). My doctoral research focused on developing statistical methods for causal inference in complex settings, including **proximal causal inference and estimation in ill-posed regression problems** (supervised by Dr. Andrea Rotnitzky) and **frameworks for non-inferiority assessment in active-controlled trials** (supervised by Dr. Holly Janes).
