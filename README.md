@@ -4,7 +4,7 @@ Welcome to my personal academic website, built using the [Minimal Mistakes](http
 
 ## About Me
 
-I am a **biostatistician (PhD, University of Washington)** and **medical doctor (internal medicine, INCMNSZ/UNAM)** with a background in **Mathematics (University of Sonora)**. My dissertation, *Advances in Proximal Inference for Continuous Exposures, Estimation of Ill-Posed Regression, and Non-Inferiority Assessment in Active-Controlled Trials*, was supervised by **Dr. Andrea Rotnitzky** (proximal inference and ill-posed regression) and **Dr. Holly Janes** (non-inferiority trials).
+I am a **biostatistician (PhD, University of Washington)** and **medical doctor (internal medicine, INCMNSZ/UNAM)** with a background in **Mathematics (University of Sonora)**. My PhD dissertation, *Advances in Proximal Inference for Continuous Exposures, Estimation of Ill-Posed Regression, and Non-Inferiority Assessment in Active-Controlled Trials*, was supervised by **Dr. Andrea Rotnitzky** (proximal inference and ill-posed regression) and **Dr. Holly Janes** (non-inferiority trials).
 
 I am currently a **Postdoctoral Researcher** at the **Center for Causal Inference at the University of Pennsylvania**, working on statistical methods for predicting outcomes of *in vitro* fertilization therapy.
 
