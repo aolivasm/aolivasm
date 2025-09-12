@@ -13,7 +13,7 @@ My research has focused on **causal inference**, **machine learning**, **clinica
 
 I also collaborate with the **INCMNSZ** on research related to **COVID-19**, **HIV/AIDS**, **antimicrobial resistance**, **cancer**, and **gastrointestinal diseases**. Additionally, I am a member of **Mexicans in Statistics and Health**, a group dedicated to making complex scientific topics accessible to a broader audience.
 
-My research interests include **causal inference**, **machine learning**, **clinical trials**, and **screening tests**, with a focus on advancing statistical methods to improve health outcomes.
+My research interests include **causal inference**, **prediction methods**, **clinical trials**, and **screening tests**, with a focus on advancing statistical methods to improve health outcomes.
 
 ---
 
