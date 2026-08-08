@@ -4,11 +4,11 @@
 
 I develop statistical methods for causal inference in complex settings and collaborate on biomedical research. I am currently a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, where my work is mentored by **Eric Tchetgen Tchetgen**, **Enrique Schisterman**, and **Ellen Caniglia**.
 
-My current projects include sensitivity analysis for unmeasured confounding using proxy variables and updating the **Society for Assisted Reproductive Technology (SART)** IVF prediction models. My methodological work draws on semiparametric theory and flexible estimation, with an emphasis on rigorous, interpretable methods that are useful in biomedical research.
+My current projects include sensitivity analysis for unmeasured confounding and updating the **Society for Assisted Reproductive Technology (SART)** IVF prediction models using flexible statistical and supervised learning methods. My methodological work draws on semiparametric theory and flexible estimation, with an emphasis on rigorous, interpretable methods that are useful in biomedical research.
 
 ## Research focus
 
-- Causal inference with unmeasured confounding and proxy variables
+- Causal inference with unmeasured confounding
 - Proximal causal inference and modified treatment policies
 - Semiparametric theory, flexible estimation, and inverse problems
 - Sensitivity analysis for unmeasured confounding
