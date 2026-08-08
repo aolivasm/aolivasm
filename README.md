@@ -1,31 +1,39 @@
-## About Me
+# Antonio Olivas-Martinez
 
-I am a biostatistician (PhD, University of Washington) and medical doctor (internal medicine, INCMNSZ/UNAM) with a background in Mathematics (University of Sonora). My doctoral research focused on developing statistical methods for causal inference in complex settings, including **proximal causal inference and estimation in ill-posed regression problems** (supervised by Dr. Andrea Rotnitzky) and **frameworks for non-inferiority assessment in active-controlled trials** (supervised by Dr. Holly Janes).
+**Biostatistician and physician | Postdoctoral Researcher at the University of Pennsylvania**
 
-I am currently a **Postdoctoral Researcher** at the **Center for Causal Inference at the University of Pennsylvania**, working on statistical methods for predicting outcomes of *in vitro* fertilization therapy.
+I develop statistical methods for causal inference in complex settings and collaborate on biomedical research. I am currently a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, where my work is mentored by **Eric Tchetgen Tchetgen**, **Enrique Schisterman**, and **Ellen Caniglia**.
 
-My research has focused on **causal inference**, **machine learning**, **clinical trials**, and **cancer screening**, with applications including:
+My current projects include sensitivity analysis for unmeasured confounding using proxy variables and updating the **Society for Assisted Reproductive Technology (SART)** IVF prediction models. My methodological work draws on semiparametric theory and flexible estimation, with an emphasis on rigorous, interpretable methods that are useful in biomedical research.
 
-- **Correlates of Protection in Vaccine Trials**: Identifying immune markers that reliably predict vaccine efficacy and allow for unmeasured confounding.
-- **Non-Inferiority Trials**: Developing a framework for assessing non-inferiority of new interventions with active-controlled trials.
-- **Cardiac Resynchronization Therapy**: Conducting individual patient data meta-analyses to assess benefits of cardiac resynchronization therapy in patients with heart failure.
-- **Cancer Screening**: Investigating bias in test sensitivity estimates.
+## Research focus
 
-I also collaborate with the **INCMNSZ** on research related to **COVID-19**, **HIV/AIDS**, **antimicrobial resistance**, **cancer**, and **gastrointestinal diseases**. Additionally, I am a member of **Mexicans in Statistics and Health**, a group dedicated to making complex scientific topics accessible to a broader audience.
+- Causal inference with unmeasured confounding and proxy variables
+- Proximal causal inference and modified treatment policies
+- Semiparametric theory, flexible estimation, and inverse problems
+- Sensitivity analysis for unmeasured confounding
+- Collaborative prediction and applied biomedical research
 
-My research interests include **causal inference**, **prediction methods**, **clinical trials**, and **screening tests**, with a focus on advancing statistical methods to improve health outcomes.
+## Selected research and software
 
----
+- **[Proximal Causal Inference for Modified Treatment Policies](https://arxiv.org/abs/2512.12038)** — methods for continuous exposures and treatment modifications in the presence of unmeasured confounding. [R implementation](https://github.com/aolivasm/proxi-mtp)
+- **[Source-Condition Analysis of Kernel Adversarial Estimators](https://arxiv.org/abs/2508.17181)** — finite-sample analysis of regularized estimators for ill-posed inverse problems.
+- **[A General Framework for Designing and Evaluating Active-Controlled Trials with Non-Inferiority Objectives](https://doi.org/10.1002/sim.70618)** — a unified framework for comparing design and analysis strategies. [R implementation](https://github.com/aolivasm/ni-design)
 
-## Contact
+## Background
 
-- **Email**: aolivasm@upenn.edu
-- **LinkedIn**: [Antonio Olivas-Martinez LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
-- **ResearchGate**: [Antonio Olivas-Martinez ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
+- **PhD, Biostatistics**, University of Washington, 2025
+- **Internal Medicine**, Universidad Nacional Autónoma de México / Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, 2019
+- **Medical Degree**, University of Sonora, 2014
+- **BMath, Mathematics**, University of Sonora, 2008
 
----
+Outside work, I enjoy running and hiking.
 
-## Skills & Tools
+## Connect
 
-- **Languages**: R, Python, SQL
-- **Statistical Methods**: Proximal Causal Inference, Machine Learning, Clinical Trials, Bayesian Hierarchical Models
+- [Personal website](https://aolivasm.github.io)
+- [Google Scholar](https://scholar.google.com/citations?user=ItjU968AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-2779-0068)
+- [LinkedIn](https://www.linkedin.com/in/antonio-olivas-martinez-490236198/)
+- [ResearchGate](https://www.researchgate.net/profile/Antonio-Olivas-Martinez)
+- Email: [aolivasm@upenn.edu](mailto:aolivasm@upenn.edu)
