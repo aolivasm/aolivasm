@@ -2,23 +2,16 @@
 
 **Biostatistician and physician | Postdoctoral Researcher at the University of Pennsylvania**
 
-I develop statistical methods for causal inference in complex settings and collaborate on biomedical research. I am currently a postdoctoral researcher in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania, where my work is mentored by **Eric Tchetgen Tchetgen**, **Enrique Schisterman**, and **Ellen Caniglia**.
+I develop statistical methods for causal inference in complex settings. My methodological research draws on semiparametric theory and flexible estimation, with an emphasis on unmeasured confounding, instrumental variables, proxy variables, sensitivity analysis, and ill-posed inverse problems.
 
-My current projects include sensitivity analysis for unmeasured confounding and updating the **Society for Assisted Reproductive Technology (SART)** IVF prediction models using flexible statistical and supervised learning methods. My methodological work draws on semiparametric theory and flexible estimation, with an emphasis on rigorous, interpretable methods that are useful in biomedical research.
+At Penn, I am affiliated with the Center for Causal Inference and CHIRP and work with Eric Tchetgen Tchetgen, Enrique Schisterman, and Ellen Caniglia. I lead the statistical development and validation of models for predicting cumulative live birth after IVF using national registry data from the Society for Assisted Reproductive Technology (SART).
 
-## Research focus
+## Selected research
 
-- Causal inference with unmeasured confounding
-- Proximal causal inference and modified treatment policies
-- Semiparametric theory, flexible estimation, and inverse problems
-- Sensitivity analysis for unmeasured confounding
-- Collaborative prediction and applied biomedical research
-
-## Selected research and software
-
-- **[Proximal Causal Inference for Modified Treatment Policies](https://arxiv.org/abs/2512.12038)** — methods for continuous exposures and treatment modifications in the presence of unmeasured confounding. [R implementation](https://github.com/aolivasm/proxi-mtp)
-- **[Source-Condition Analysis of Kernel Adversarial Estimators](https://arxiv.org/abs/2508.17181)** — finite-sample analysis of regularized estimators for ill-posed inverse problems.
-- **[A General Framework for Designing and Evaluating Active-Controlled Trials with Non-Inferiority Objectives](https://doi.org/10.1002/sim.70618)** — a unified framework for comparing design and analysis strategies. [R implementation](https://github.com/aolivasm/ni-design)
+- **[Sharp Instrumental Variable Bounds under The Marginal Sensitivity Model](https://arxiv.org/abs/2610.22513)** — Combines instrumental variable assumptions with marginal sensitivity models to obtain sharp bounds on average treatment effects under unmeasured confounding, and develops estimators and confidence sets for those bounds. [R implementation](https://github.com/aolivasm/iv-msm-sa)
+- **[Proximal Causal Inference for Modified Treatment Policies](https://arxiv.org/abs/2512.12038)** — Uses proxy variables to identify and estimate the effects of modifying a continuous exposure in the presence of unmeasured confounding, with an application to vaccine immunobridging. Accepted for publication in *Biometrics*. [R implementation](https://github.com/aolivasm/proxi-mtp)
+- **[Source-Condition Analysis of Kernel Adversarial Estimators](https://arxiv.org/abs/2508.17181)** — Studies how source conditions affect finite-sample error rates for regularized kernel adversarial estimators in ill-posed inverse problems.
+- **[A General Framework for Designing and Evaluating Active-Controlled Trials with Non-Inferiority Objectives](https://doi.org/10.1002/sim.70618)** — A unified framework for comparing design and analysis strategies. [R implementation](https://github.com/aolivasm/ni-design)
 
 ## Background
 
